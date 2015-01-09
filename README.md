@@ -1,0 +1,2 @@
+# dollar
+.net repository
